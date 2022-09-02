@@ -12,5 +12,8 @@ Integrantes:
 Link a la app en Heroku (streamlit):
 https://ml-proyecto-final-ecg.herokuapp.com/
 
+Código fuente de la Aplicación:
+https://github.com/xalejandrow/4Geeks_Proyecto_Final
+
 Link a los CSV con datos y archivos de los modelos (pkl):
 https://drive.google.com/drive/folders/1aryG_RRuyNUmgT-Z1TnMbkqjoXXhfezM
